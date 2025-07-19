@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+spacy
+fuzzywuzzy
+joblib
+python-Levenshtein
+django
